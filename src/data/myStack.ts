@@ -23,4 +23,8 @@ export const myStack = [
     title: "Kali Linux",
     icon: "/icons/kali.svg",
   },
+  {
+    title: "Next.JS",
+    icon: "/icons/nextjs-icon.svg",
+  },
 ];
