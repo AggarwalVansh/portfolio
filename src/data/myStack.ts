@@ -19,12 +19,24 @@ export const myStack = [
     title: "OpenAI",
     icon: "/icons/openai-icon.svg",
   },
-  {
+  /* {
     title: "Kali Linux",
     icon: "/icons/kali.svg",
+  }, */
+  {
+    title: "Git",
+    icon: "/icons/git-icon.svg",
   },
   {
-    title: "Next.JS",
-    icon: "/icons/nextjs-icon.svg",
+    title: "Socket.io",
+    icon: "/icons/socket-io.png",
+  },
+  {
+    title: "Discord.js",
+    icon: "/icons/discord-js.png",
+  },
+  {
+    title: "Linux",
+    icon: "/icons/linux.png",
   },
 ];

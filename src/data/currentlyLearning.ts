@@ -12,7 +12,7 @@ export const currentlyLearning = [
     description: "In JavaScript and Python",
   },
   {
-    title: "Express",
+    title: "Express and Socket.io",
     description: "For backend development",
   },
   {
