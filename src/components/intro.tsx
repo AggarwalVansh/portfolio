@@ -9,7 +9,7 @@ const Intro = () => {
       <div className={styles.textContainer}>
         <h2>Hello, I'm</h2>
         <h1>
-          <a href="https://github.com/AggarwalVansh">Vansh Aggarwal</a>
+          <a href="https://aggarwalvansh.github.io/">Vansh Aggarwal</a>
         </h1>
         <h3>A High School Student</h3>
       </div>
