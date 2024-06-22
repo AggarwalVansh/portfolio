@@ -24,10 +24,6 @@ export const myStack = [
     icon: "/icons/kali.svg",
   }, */
   {
-    title: "Git",
-    icon: "/icons/git-icon.svg",
-  },
-  {
     title: "Socket.io",
     icon: "/icons/socket-io.png",
   },
