@@ -1,23 +1,23 @@
 export const currentlyLearning = [
   {
-    title: "Ethical Hacking",
-    description: "As Plan B",
+    title: "Cybersecurity Penetration",
+    description: "To look kool 🆒",
   },
   {
-    title: "Machine Learning",
-    description: "Using Python",
+    title: "Software Development",
+    description: "Using C/C++",
   },
   {
     title: "Data Structures and Algorithms",
-    description: "In JavaScript and Python",
+    description: "In JavaScript and C++",
   },
   {
     title: "Express and Socket.io",
     description: "For backend development",
   },
   {
-    title: "C and C++",
-    description: "For low-level programming",
+    title: "Arch Linux",
+    description: "For flexibility among OS",
   },
   {
     title: "DBMS",
